@@ -8,6 +8,12 @@ html{
 body p, body h1, body h2, body h3, body h4, body ul {
   text-align: left; 
 }
+body {
+  background-image: url('image-url.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 h1, h2, h3, h4{
   color:#964800;
